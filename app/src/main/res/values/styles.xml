@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTextInputLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="boxBackgroundColor">#EDEDED</item>
+        <item name="android:textColorHint">#828282</item>
+        <item name="boxCornerRadiusTopStart">@dimen/cornerRadius</item>
+        <item name="boxCornerRadiusTopEnd">@dimen/cornerRadius</item>
+        <item name="boxCornerRadiusBottomStart">@dimen/cornerRadius</item>
+        <item name="boxCornerRadiusBottomEnd">@dimen/cornerRadius</item>
+        <item name="boxStrokeWidth">0dp</item>
+        <item name="android:layout_marginBottom">24dp</item>
+    </style>
+    
+    <style name="CustomTextInputEditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingStart">32dp</item>
+    </style>
+
+    <style name="CustomMaterialButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="cornerRadius">@dimen/cornerRadius</item>
+        <item name="backgroundTint">@color/main_blue</item>
+    </style>
+</resources>

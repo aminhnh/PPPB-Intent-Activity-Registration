@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cornerRadius">10dp</dimen>
+    <dimen name="viewPadding">16dp</dimen>
+    <dimen name="editTextMargin">16dp</dimen>
+    <dimen name="appPadding">30dp</dimen>
+</resources>

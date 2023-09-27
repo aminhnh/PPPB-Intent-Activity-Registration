@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PPPB Activity Intent</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="toc">By checking the box you agree to our Terms and Conditions.</string>
+    <string name="login">Already have an account? Log in</string>
+</resources>
